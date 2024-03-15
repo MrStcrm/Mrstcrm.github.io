@@ -59,32 +59,3 @@ li .id:hover {
 
 
 
-#footer{
-    height: 50px;
-    width: 200px;
-    margin: auto;
-    background-color: white;
-    margin-bottom: 15px;
-    background-position: center;
-    background-size: cover;
-    
-}
-    
-.footer{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding:10px;
-    border-radius: 50px;
-    text-align: center;
-    border: black 1px solid;
-    margin: auto;
-    padding-top: -5px;
-   
-}
-
-.footer:hover{
-    background-color: burlywood;
-    color: white ;
-}
